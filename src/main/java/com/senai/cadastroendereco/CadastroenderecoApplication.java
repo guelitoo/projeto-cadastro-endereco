@@ -1,4 +1,4 @@
-package com.senai;
+package com.senai.cadastroendereco;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
